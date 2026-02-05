@@ -20,14 +20,3 @@ contribute to the OverTheWire community so we can keep these games free!
 
 The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If"
 ```
-
-Solution:
-```bash
-cat ./-
-
-263JGJPfgU6LtdEvgfWU1XP5yac29mFx
-# If a file is named '-', using any commands before it will fail as it views the hyphen as a command option.
-
-# using ./ before the hyphen tells the command line that its a file
-
-```
