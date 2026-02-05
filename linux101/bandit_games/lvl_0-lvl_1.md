@@ -11,7 +11,6 @@ Solution:
 ```bash
 cat readme
 # shows what is inside of a file
-```
 
 "Congratulations on your first steps into the bandit game!!
 Please make sure you have read the rules at https://overthewire.org/rules/
@@ -20,6 +19,7 @@ please inform the instructor about the rules as well and encourage them to
 contribute to the OverTheWire community so we can keep these games free!
 
 The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If"
+```
 
 Solution:
 ```bash
